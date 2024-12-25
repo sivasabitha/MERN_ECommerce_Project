@@ -1,0 +1,24 @@
+node js commands:
+
+create new :
+
+npm init vite    --> here we give the pro name ,package name,frameworks
+
+change directory after npm init vite
+
+npm install  --> here dependencies are install here
+
+npm install bootstrap axios react-router-dom    -->for react bootstrap tools
+
+npm run dev   ---> for run the project in browser for frontend
+
+
+npm init -y   ----> used to create new folder properties
+
+npm install express mongoose cors nodemon
+
+npm start   --->start the npm in backend    
+
+node index.js    ---> for run the backend file
+
+for run the both front end backend create 2 terminals run frontend and backend at the seperate terminals at the same time
